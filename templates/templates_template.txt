@@ -1,0 +1,31 @@
+surname
+surname name
+surname . name
+surname - name
+surname _ name
+surname n
+surname . n
+surname - n
+surname _ n
+surname n m
+surname . n m
+surname . n . m
+surname - n m
+surname - n - m
+surname _ n m
+surname _ n _ m
+name surname
+name . surname
+name - surname
+name _ surname
+name s
+name . s
+name - s
+name _ s
+n m surname
+n m . surname
+n . m . surname
+n m - surname
+n - m - surname
+n m _ surname
+n _ m _ surname
